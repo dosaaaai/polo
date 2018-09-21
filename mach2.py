@@ -1,8 +1,8 @@
+#Added this c1
 import json
 import csv
 import collections
 import os
-from gurobipy import *
 import random
 import pprint
 import pandas as pd
